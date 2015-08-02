@@ -1,0 +1,63 @@
+.header {
+  background-color: rgba(107, 4, 4, 1);
+}
+
+.no-border {
+  font-weight: bold;
+  color:white;
+  background-color:rgba(128, 0, 0, 1);
+  margin-left:29px;
+  margin-right:29px;
+  width: 150px;
+  box-shadow: 2px 5px 6px #888888;
+  border: none;
+  outline:none;
+}
+
+.fancy {
+	background:url(../images/divider.png) 50% 0 no-repeat;
+  text-align: center;
+	height: 20px;
+	border: 0;
+}
+
+.sexy{
+    display: block;
+    border: 0;
+    height: 1px;
+    width: 80%;
+    background: red;
+    background: -webkit-gradient(radial, 10% 10%, 0, 10% 10%, 250, from(#8f0000), to(#b50505));
+}
+
+hr {
+  display: block;
+  border-style: inset;
+  border-width: 2px;
+}
+
+h1 {
+  color:white;
+  font-family: 'Pacifico';
+  font-size: 250%;
+}
+
+img {
+  padding-top: 20px;
+}
+
+html, body {
+  background: rgba(247, 242, 233, 1);
+  font-family: 'Glegoo';
+
+  font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Glegoo', sans-serif;
+}
+
+@font-face {
+  font-family: 'Pacifico', cursive;
+}

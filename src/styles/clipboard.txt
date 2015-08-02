@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'SinkinSans';
+  font-weight: normal;
+  src:url('./fonts/SinkinSansRegular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SinkinSansBold';
+  font-weight: bold;
+  src:url('./fonts/SinkinSansBold.otf') format('opentype');
+}
