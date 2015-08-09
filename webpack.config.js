@@ -49,7 +49,7 @@ module.exports = {
       test: /\.css$/,
       loader: 'style-loader!css-loader'
     }, {
-      test: /\.(png|jpg|woff|woff2|otf)$/,
+      test: /\.(png|jpg|woff|woff2|otf|ttf)$/,
       loader: 'url-loader?limit=8192'
     }]
   },

@@ -10,6 +10,7 @@
   "mainInput": "main",
   "mainOutput": "main",
   "dependencies": {
+    "grunt-build-control": "^0.5.0",
     "normalize.css": "~3.0.3",
     "react": "0.13.x",
     "react-bootstrap": "^0.24.3",
