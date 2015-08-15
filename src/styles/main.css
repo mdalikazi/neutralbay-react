@@ -10,6 +10,7 @@
   color: white;
   font-family: 'Playball';
   font-size: 170%;
+  padding-bottom: 62px;
 }
 
 .header h1 {
@@ -18,7 +19,18 @@
 
 .header h3 {
   margin-top: -30px;
-  margin-bottom: 60px;
+}
+
+.weather-frame {
+  float: right;
+  border: 0;
+}
+
+.header-hr {
+  display: block;
+  border-style: inset;
+  border-width: 2px;
+  margin-top: 0px;
 }
 
 .buttons {
@@ -109,22 +121,8 @@
   display: block;
 }
 
-.weather-frame {
-  display:inline-flex;
-  margin-left: 20px;
-  box-shadow: 2px 5px 6px #888888;
-  vertical-align: top;
-  position: absolute;
-}
-
 .footer {
   font-size: 13px;
-}
-
-hr {
-  display: block;
-  border-style: inset;
-  border-width: 2px;
 }
 
 html, body {

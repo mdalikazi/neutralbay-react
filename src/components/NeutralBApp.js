@@ -21,14 +21,15 @@ var NeutralBApp = React.createClass({
             Neutral Bay Community Centre
             <h3>Senior Citizens Club</h3>
           </h1>
+
           </div>
-          <hr />
+          <Weather />
         </div>
+        <hr className="header-hr"/>
         <Navbar />
         <hr className="fadedHr" />
         <div className="text-center">
           <Carousel />
-          <Weather />
         </div>
         <br />
         <Description />

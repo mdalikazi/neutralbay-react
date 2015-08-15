@@ -9,3 +9,14 @@
   font-weight: bold;
   src:url('./fonts/SinkinSansBold.otf') format('opentype');
 }
+
+Red weather:
+http://cdnres.willyweather.com.au/widget/loadView.html?id=26066
+http://cdnres.willyweather.com.au/widget/loadView.html?id=26069
+http://cdnres.willyweather.com.au/widget/loadView.html?id=26070
+
+Blue weather:
+http://cdnres.willyweather.com.au/widget/loadView.html?id=26067
+
+Black weather":
+http://cdnres.willyweather.com.au/widget/loadView.html?id=26065
