@@ -8,7 +8,7 @@ module.exports = React.createClass({
         src="http://cdnres.willyweather.com.au/widget/loadView.html?id=26070"
         width="199"
         height="62"
-        frameborder="0"
+        frameBorder="0"
         scrolling="no">
         </iframe>
     );
